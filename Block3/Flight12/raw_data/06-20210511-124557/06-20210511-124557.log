@@ -1,0 +1,3 @@
+PIKSI: invalid CRC in msgID 522 0x726f should be 0xcc73
+PIKSI error msg:b'U\n\x02\xbb\x91\xf2\x00U\xa5\x00\xbb\x913usb0\x00mode\x00SBP\x00enum:Disabled,RTCMv3 IN,NMEA OUT,SBP\x00\xbf\x1aU\xa5\x00\xbb\x91:tcp_server0\x00mode\x00SBP\x00enum:Disabled,RTCMv3 IN,NMEA OUT,SBP\x00D3U\xa5\x00\xbb\x91\x17tcp_server0\x00port\x0055555\x00\x00\xb9U\xa5\x00\xbb\x91:tcp_server1\x00mode\x00SBP\x00enum:Disabled,RTCMv3 IN,NMEA OUT,SBP\x00\xa5\xd9U\xa5\x00\xbb\x91\x17tcp_server1\x00por'
+

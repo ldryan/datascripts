@@ -1,0 +1,147 @@
+MAG: error msgb'$480731.793,0286\r\n'
+
+MAG: error msgb'$352407.445,0317\r\n'
+
+MAG: error msgb'$321040.962,0332\r\n'
+
+MAG: error msgb'$303433.194,0334\r\n'
+
+MAG: error msgb'$278010.194,0327\r\n'
+
+MAG: error msgb'$255041.290,0303\r\n'
+
+MAG: error msgb'$236534.290,0298\r\n'
+
+MAG: error msgb'$227009.162,0344\r\n'
+
+MAG: error msgb'$212539.849,0288\r\n'
+
+MAG: error msgb'$363736.811,0293\r\n'
+
+MAG: error msgb'$353935.652,0327\r\n'
+
+MAG: error msgb'$321087.611,0291\r\n'
+
+MAG: error msgb'$291456.675,0293\r\n'
+
+MAG: error msgb'$267813.214,0322\r\n'
+
+MAG: error msgb'$255028.498,0315\r\n'
+
+MAG: error msgb'$244355.086,0298\r\n'
+
+MAG: error msgb'$221358.385,0322\r\n'
+
+MAG: error msgb'$211955.432,0300\r\n'
+
+MAG: error msgb'$503795.713,0310\r\n'
+
+MAG: error msgb'$338012.913,0317\r\n'
+
+MAG: error msgb'$318786.655,0300\r\n'
+
+MAG: error msgb'$302363.637,0327\r\n'
+
+MAG: error msgb'$278631.792,0293\r\n'
+
+MAG: error msgb'$255753.728,0288\r\n'
+
+MAG: error msgb'$236861.176,0344\r\n'
+
+MAG: error msgb'$220724.540,0317\r\n'
+
+MAG: error msgb'$206623.742,0295\r\n'
+
+MAG: error msgb'$503669.618,0330\r\n'
+
+MAG: error msgb'$323454.241,0320\r\n'
+
+MAG: error msgb'$303432.646,0334\r\n'
+
+MAG: error msgb'$278536.587,0293\r\n'
+
+MAG: error msgb'$264754.930,0339\r\n'
+
+MAG: error msgb'$246045.989,0315\r\n'
+
+MAG: error msgb'$235389.807,0325\r\n'
+
+MAG: error msgb'$214270.909,0327\r\n'
+
+MAG: error msgb'$204822.654,0332\r\n'
+
+MAG: error msgb'$435177.846,0313\r\n'
+
+MAG: error msgb'$336897.674,0305\r\n'
+
+MAG: error msgb'$305480.950,0334\r\n'
+
+MAG: error msgb'$278501.193,0308\r\n'
+
+MAG: error msgb'$256627.023,0305\r\n'
+
+MAG: error msgb'$237202.492,0313\r\n'
+
+MAG: error msgb'$220621.607,0320\r\n'
+
+MAG: error msgb'$211818.712,0315\r\n'
+
+MAG: error msgb'$204700.845,0339\r\n'
+
+MAG: error msgb'$334260.141,0283\r\n'
+
+MAG: error msgb'$335128.918,0303\r\n'
+
+MAG: error msgb'$304403.371,0308\r\n'
+
+MAG: error msgb'$278628.343,0308\r\n'
+
+MAG: error msgb'$256332.344,0291\r\n'
+
+MAG: error msgb'$237178.591,0317\r\n'
+
+MAG: error msgb'$220480.256,0303\r\n'
+
+MAG: error msgb'$211764.691,0291\r\n'
+
+MAG: error msgb'$424739.007,0315\r\n'
+
+MAG: error msgb'$338848.760,0332\r\n'
+
+MAG: error msgb'$318665.574,0339\r\n'
+
+MAG: error msgb'$291417.885,0295\r\n'
+
+MAG: error msgb'$276187.830,0325\r\n'
+
+MAG: error msgb'$255248.613,0303\r\n'
+
+MAG: error msgb'$235981.439,0300\r\n'
+
+MAG: error msgb'$219919.292,0303\r\n'
+
+MAG: error msgb'$211402.353,0320\r\n'
+
+MAG: error msgb'$204349.088,0303\r\n'
+
+MAG: error msgb'$476366.490,0293\r\n'
+
+MAG: error msgb'$351229.015,0305\r\n'
+
+MAG: error msgb'$319470.777,0325\r\n'
+
+MAG: error msgb'$291260.638,0295\r\n'
+
+MAG: error msgb'$276674.008,0300\r\n'
+
+MAG: error msgb'$255397.564,0325\r\n'
+
+MAG: error msgb'$236787.824,0291\r\n'
+
+MAG: error msgb'$226591.128,0332\r\n'
+
+MAG: error msgb'$212067.272,0300\r\n'
+
+MAV: invalid MAVLink CRC in msgID 30 0x0005 should be 0x0c7b
+MAV Error Msg:b'\xfe\x1cw\x01\x01\x1e\x9d\x86\x19\x00\xf9\x1b\x9e<\x12\xe9t\xbd\x00\t\x8f\x9e\xfe\x0c\x91\x01\x01\x02\x98\x8f\xdce\xfe\xc1\x05\x00'
+

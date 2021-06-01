@@ -1,0 +1,3 @@
+MAV: invalid MAVLink CRC in msgID 173 0x2101 should be 0x8d3b
+MAV Error Msg:b'\xfe\x08%\x01\x01\xad\n\xd7\xa3=\x00\x1c,\x01\x01!'
+

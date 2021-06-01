@@ -1,0 +1,5 @@
+MAG: error msgb'$ 65641.27$ 65647.'
+
+PIKSI: invalid CRC in msgID 522 0x0f3c should be 0x9202
+PIKSI error msg:b'U\n\x02\xbb\x91"dK<\x0f_\x89@U\x02\x01\xbb\x91\x0bm\x08\x90L<\x0f\x00\x00\x00\x00\x01\xd0&U\n\x02\xbb\x91"\x90L<\x0f'
+

@@ -1,0 +1,3 @@
+PIKSI: invalid CRC in msgID 258 0x4dfe should be 0x7c55
+PIKSI error msg:b'U\x02\x01W\xa8\x0b\x00\x00U\x02\x01W\xa8\x0b\x00\x00\x04\xfeM'
+

@@ -1,0 +1,5 @@
+MAG: error msgb'$ 65607.687$ 65605'
+
+MAV: invalid MAVLink CRC in msgID 30 0x3d98 should be 0x1898
+MAV Error Msg:b'\xfe\x1c\xeb\x01\x01\x1eM\x08\x14\x014\x07\xa0<;8\xa5\xbdD\xbf\xc7\xbf\xdbEM\xbbQ\xc1(<\x82T\x98\xbb\x98='
+
